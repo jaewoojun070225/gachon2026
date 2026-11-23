@@ -3,3 +3,5 @@
 ## gitbash 다운로드 링크↓
 https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe
 
+## mobaxterm 다운로드 링크↓
+https://download.mobatek.net/2652026082870834/MobaXterm_Installer_v26.5.zip
